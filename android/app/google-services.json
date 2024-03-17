@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517970202883",
+    "project_id": "walkntalk-79fae",
+    "storage_bucket": "walkntalk-79fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517970202883:android:1c5fdd60e7e16e776c1936",
+        "android_client_info": {
+          "package_name": "com.example.wnt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNTaCoxKF2gF2xHhuPmxrqugMS1AXQq1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
