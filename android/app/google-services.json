@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "517970202883",
-    "project_id": "walkntalk-79fae",
-    "storage_bucket": "walkntalk-79fae.appspot.com"
+    "project_number": "506788551033",
+    "project_id": "sampleproj-3b41d",
+    "storage_bucket": "sampleproj-3b41d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:517970202883:android:1c5fdd60e7e16e776c1936",
+        "mobilesdk_app_id": "1:506788551033:android:ccf209ff14cea6986e77a8",
         "android_client_info": {
-          "package_name": "com.example.wnt"
+          "package_name": "com.example.newproj"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDNTaCoxKF2gF2xHhuPmxrqugMS1AXQq1Y"
+          "current_key": "AIzaSyAmCax6Xx0ik727kBhn9x7QGCFvwaOZhCY"
         }
       ],
       "services": {

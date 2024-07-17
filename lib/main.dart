@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'Auth/main_page.dart';
+import 'Auth/auth_control_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
             ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 12, 125, 90)),
         useMaterial3: true,
       ),
-      home: MainPage(),
+      home: const AuthControlPage(),
     );
   }
 }
